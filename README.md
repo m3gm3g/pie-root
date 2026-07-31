@@ -66,6 +66,8 @@ In the Lexicon of the Primordial Echo, tracing a word to its PIE root means desc
 
 ---
 
+Gathered using Base44 on 07302026
+
 ## Integrity Ledger
 
 Every published state of this piece is recorded in `CHECKSUM-LEDGER.txt` — an append-only, hash-chained log of SHA-256 checksums. Entries are never edited or removed, only appended. An independent copy is archived in the private [`pie-root-integrity`](https://github.com/m3gm3g/pie-root-integrity) repo.
